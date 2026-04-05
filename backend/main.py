@@ -20,6 +20,9 @@ sys.path.insert(0, str(project_root))
 data_dir = project_root / "data"
 data_dir.mkdir(exist_ok=True)
 
+# Frontend static files path - built during deployment
+frontend_dist = project_root / "backend" / "static"
+
 from backend.api import resumes, jobs, match, rank
 
 app = FastAPI(
@@ -41,9 +44,9 @@ app.include_router(jobs.router)
 app.include_router(match.router)
 app.include_router(rank.router)
 
-
-# Frontend static files path - built during deployment
-frontend_dist = project_root / "backend" / "static"
+# Mount static files for frontend
+if frontend_dist.exists():
+    app.mount("/", StaticFiles(directory=str(frontend_dist), html=True), name="static")
 
 
 @app.get("/api")
@@ -53,16 +56,6 @@ async def api_root():
         "version": "1.0.0",
         "docs": "/docs",
     }
-
-
-@app.get("/")
-async def root():
-    index_file = frontend_dist / "index.html"
-    if index_file.exists():
-        with open(index_file, "r") as f:
-            content = f.read()
-        return HTMLResponse(content=content)
-    return {"message": "Resume Screening Platform API", "version": "1.0.0"}
 
 
 @app.get("/health")
