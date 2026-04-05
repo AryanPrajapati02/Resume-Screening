@@ -39,10 +39,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(resumes.router)
-app.include_router(jobs.router)
-app.include_router(match.router)
-app.include_router(rank.router)
+app.include_router(resumes.router, prefix="/api")
+app.include_router(jobs.router, prefix="/api")
+app.include_router(match.router, prefix="/api")
+app.include_router(rank.router, prefix="/api")
 
 # Mount static files for frontend
 if frontend_dist.exists():
