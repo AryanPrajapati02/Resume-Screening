@@ -1,0 +1,50 @@
+# Jane Smith - Resume
+
+## Contact Information
+Email: jane.smith@email.com
+Phone: (555) 987-6543
+Location: New York, NY
+
+## Professional Summary
+Creative UI/UX designer with 4+ years experience in user-centered design and front-end development. Passionate about creating intuitive user experiences.
+
+## Skills
+- Figma, Adobe XD, Sketch
+- HTML, CSS, JavaScript
+- React, Vue.js
+- User Research, Prototyping
+- Design Systems, Accessibility
+
+## Experience
+
+### Senior UX Designer
+DesignStudio, New York, NY
+March 2019 - Present
+- Led design for mobile and web applications
+- Conducted user research and usability testing
+- Created design systems and component libraries
+- Collaborated with development teams
+
+### UI Designer
+CreativeAgency, New York, NY
+July 2017 - February 2019
+- Designed user interfaces for client websites
+- Created wireframes and prototypes
+- Worked with HTML/CSS for front-end implementation
+- Presented design concepts to stakeholders
+
+## Education
+Bachelor of Fine Arts in Graphic Design
+Pratt Institute, Brooklyn, NY
+2013 - 2017
+
+## Projects
+### Mobile Banking App
+- Complete UI/UX design for iOS and Android
+- User flow optimization
+- Accessibility compliance
+
+### E-commerce Website Redesign
+- Increased conversion rate by 25%
+- Modern, responsive design
+- A/B testing implementation

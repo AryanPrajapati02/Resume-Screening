@@ -1,0 +1,50 @@
+# John Doe - Resume
+
+## Contact Information
+Email: john.doe@email.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+
+## Professional Summary
+Experienced Python developer with 5+ years in web development and data processing. Skilled in FastAPI, Django, and cloud technologies.
+
+## Skills
+- Python, JavaScript, SQL
+- FastAPI, Django, React
+- PostgreSQL, MongoDB
+- AWS, Docker, Git
+- Machine Learning (scikit-learn)
+
+## Experience
+
+### Senior Python Developer
+TechCorp Inc., San Francisco, CA
+January 2020 - Present
+- Developed REST APIs using FastAPI serving 10k+ users
+- Built data processing pipelines with Python and SQL
+- Deployed applications on AWS with Docker containers
+- Led a team of 3 junior developers
+
+### Python Developer
+StartupXYZ, San Francisco, CA
+June 2018 - December 2019
+- Created web applications using Django
+- Implemented database schemas and queries
+- Integrated third-party APIs
+- Participated in agile development process
+
+## Education
+Bachelor of Science in Computer Science
+University of California, Berkeley
+2014 - 2018
+
+## Projects
+### E-commerce Platform
+- Built with FastAPI and React
+- Integrated payment processing
+- Deployed on AWS with CI/CD pipeline
+
+### Data Analytics Dashboard
+- Python data processing with pandas
+- Interactive visualizations with Plotly
+- Real-time data updates

@@ -1,0 +1,25 @@
+# Software Engineer Position
+
+## Job Title: Senior Python Developer
+
+## Job Description:
+We are looking for a skilled Python developer to join our team. The ideal candidate will have experience in web development, data processing, and API design.
+
+### Requirements:
+- 3+ years of Python development experience
+- Experience with FastAPI or Django
+- Knowledge of databases (SQL and NoSQL)
+- Familiarity with cloud platforms (AWS/Azure)
+- Strong problem-solving skills
+
+### Responsibilities:
+- Develop and maintain web applications
+- Design and implement REST APIs
+- Work with databases and data processing
+- Collaborate with cross-functional teams
+- Participate in code reviews and testing
+
+### Nice to have:
+- Experience with React
+- Knowledge of machine learning
+- Docker containerization experience

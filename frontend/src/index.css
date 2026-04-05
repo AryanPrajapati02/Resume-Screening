@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --bg: #f9f8f6;
+  --surface: #ffffff;
+  --border: #e5e3de;
+  --text: #1a1a1a;
+  --text-light: #6b6b6b;
+  --accent: #1a1a1a;
+  --accent-warm: #a68a5b;
+  --green: #2d8a4e;
+  --green-soft: rgba(45, 138, 78, 0.1);
+  --warm-soft: rgba(166, 138, 91, 0.1);
+  --warm-border: rgba(166, 138, 91, 0.2);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}

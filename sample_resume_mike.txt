@@ -1,0 +1,50 @@
+# Mike Johnson - Resume
+
+## Contact Information
+Email: mike.johnson@email.com
+Phone: (555) 456-7890
+Location: Austin, TX
+
+## Professional Summary
+Full-stack developer with 3 years experience in JavaScript technologies and some Python exposure. Focused on building scalable web applications.
+
+## Skills
+- JavaScript, TypeScript, Python
+- Node.js, Express, React
+- MongoDB, MySQL
+- Git, Docker, AWS basics
+- HTML, CSS, Sass
+
+## Experience
+
+### Full-Stack Developer
+WebSolutions, Austin, TX
+January 2021 - Present
+- Developed full-stack applications with MERN stack
+- Built REST APIs with Node.js and Express
+- Integrated databases and authentication
+- Deployed applications on AWS
+
+### Junior Developer
+CodeFactory, Austin, TX
+August 2019 - December 2020
+- Assisted in web application development
+- Learned Python for data processing tasks
+- Contributed to front-end components
+- Participated in code reviews
+
+## Education
+Associate Degree in Computer Programming
+Austin Community College
+2017 - 2019
+
+## Projects
+### Task Management App
+- Built with React and Node.js
+- Real-time updates with WebSocket
+- User authentication and authorization
+
+### Personal Blog
+- Custom CMS with Python backend
+- Responsive design with Bootstrap
+- SEO optimization
